@@ -44,3 +44,12 @@ Copyright (C) 2026 Yang458 and Chushi.
 - **KubeJS Scripts**: All KubeJS scripts are licensed under **GPLv3**.
 - **Custom Mod Code**: Licensed under **CC0 1.0 (Public Domain)**. *(Note: The code was primarily AI-generated and is considered public domain. For convenience, only compiled jars are distributed; source code is not provided.)*
 - **Custom Mod Models and Textures**: Copyright (C) 2026 Chushi. **All rights reserved**. Unauthorized extraction or redistribution is prohibited.
+
+<br><br><br>
+---
+### **筑界同盟工作室 出品 Published by Zhujie Mengmeng Studio**
+### 主作者：Yang458
+### 副作者：初十
+<a href="https://www.zjtmstudio.top"><img width="192" height="108" alt="logo" src="https://github.com/user-attachments/assets/726edd5c-fa6c-4c7a-8b5a-eb19a6aa974b" /></a>
+
+---
