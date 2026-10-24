@@ -86,21 +86,19 @@ body:
         - 是，添加了其他模组
     validations:
       required: true
-
   - type: markdown
     attributes:
       value: |
         ### 核心部分：崩溃日志
-        请勿直接截图日志！也请不要将几十万字的文本直接粘贴到这里。
-        请打开 [mclo.gs](https://mclo.gs/) ，将游戏目录 `.minecraft/logs/latest.log` 文件传上去，然后将生成的链接粘贴在下方。
-        如果是直接闪退，请同时检查 `.minecraft/crash-reports` 文件夹里是否有最新的错误报告。
+        请勿直接截图日志内容。
+        你可以在下方框中直接粘贴 [mclo.gs](https://mclo.gs/) 的链接，或者直接找到游戏目录下 `.minecraft/logs/latest.log` 文件（如果是直接闪退，再去看看 `.minecraft/crash-reports` 文件夹），**直接将文件拖拽到下方的输入框中作为附件上传**。
 
-  - type: input
+  - type: textarea
     id: log-link
     attributes:
-      label: 日志链接
-      description: 必须提供 mclo.gs 或 Pastebin 的链接。如果只写“无”或“不会弄”，此 Issue 将被直接关闭。
-      placeholder: "https://mclo.gs/..."
+      label: 日志链接或附件
+      description: 提供 mclo.gs 链接，或直接将 .log / .txt 文件拖拽到此框内上传。
+      placeholder: "粘贴链接，或将文件拖拽到这里..."
     validations:
       required: true
 
