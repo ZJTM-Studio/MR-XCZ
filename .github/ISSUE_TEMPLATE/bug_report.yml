@@ -27,6 +27,7 @@ body:
       label: 复现步骤
       description: 请按顺序列出你是如何触发这个 Bug 的。
       placeholder: |
+        例：
         1. 进入游戏
         2. 打开物品栏
         3. 放置自定义的维修台方块
