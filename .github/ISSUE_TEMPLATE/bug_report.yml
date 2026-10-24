@@ -1,0 +1,115 @@
+name: Bug 反馈
+description: 遇到了崩溃、卡顿或游戏逻辑错误？请使用此模板向我们报告。
+title: "[Bug] 简短描述你遇到的问题 "
+labels: ["bug"]
+assignees: []
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        感谢您花时间填写此表单！在提交之前，请确保您使用的是最新版本的整合包，并且没有自行添加额外的未知模组。
+        如果遇到崩溃，请务必提供日志，否则我们将无法定位问题。
+
+  - type: textarea
+    id: description
+    attributes:
+      label: 问题描述
+      description: 请清晰、简单地描述一下发生了什么。
+      placeholder: "例如：放置维修台后游戏立即闪退。"
+    validations:
+      required: true
+
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: 复现步骤
+      description: 请按顺序列出你是如何触发这个 Bug 的。
+      placeholder: |
+        1. 进入游戏
+        2. 打开物品栏
+        3. ...
+    validations:
+      required: true
+
+  - type: dropdown
+    id: os
+    attributes:
+      label: 操作系统
+      options:
+        - Windows 10
+        - Windows 11
+        - Linux
+        - macOS
+    validations:
+      required: true
+
+  - type: input
+    id: pack-version
+    attributes:
+      label: 整合包版本
+      description: 请填写精确的版本号，例如 v0.0.1-alpha。
+      placeholder: "v0.0.1-alpha"
+    validations:
+      required: true
+
+  - type: input
+    id: java-version
+    attributes:
+      label: Java 版本
+      placeholder: "例如: Java 17.0.8"
+    validations:
+      required: true
+
+  - type: input
+    id: memory
+    attributes:
+      label: 分配内存 (MB)
+      placeholder: "例如: 6144 MB"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: extra-mods
+    attributes:
+      label: 是否添加了额外模组
+      options:
+        - 否，仅使用整合包自带模组
+        - 是，添加了其他模组
+    validations:
+      required: true
+
+  - type: markdown
+    attributes:
+      value: |
+        ### 核心部分：崩溃日志
+        请勿直接截图日志！也请不要将几十万字的文本直接粘贴到这里。
+        请打开 [mclo.gs](https://mclo.gs/) ，将 `latest.log` 文件传上去，然后将生成的链接粘贴在下方。
+
+  - type: input
+    id: log-link
+    attributes:
+      label: 日志链接
+      description: 请提供 mclo.gs 或 Pastebin 的链接。
+      placeholder: "https://mclo.gs/..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: 截图或视频
+      description: 如果有视觉上的错误（如贴图丢失、模型穿模），可以直接将图片拖拽到这里。
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: 提交确认
+      description: 请确认以下事项后再提交。
+      options:
+        - label: 我已经搜索了现有的 Issues，确认这是一个全新且未被报告过的问题。
+          required: true
+        - label: 我已经仔细阅读了上述要求，并按要求提供了完整的日志链接。
+          required: true
