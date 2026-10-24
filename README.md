@@ -52,7 +52,7 @@ Copyright (C) 2026 Yang458 and Chushi.
 
 ## ⚠️ 免责声明 (Disclaimer)
 
-Minecraft 是 Mojang AB 的注册商标。本项目（《末日：幸存者》 / Doomsday: Survivor）未经 Mojang 或 Microsoft 批准，也不与 Mojang 或 Microsoft 关联。Mojang 和 Microsoft 不对本项目的开发、发布或运营承担任何责任。
+Minecraft 是 Mojang AB 的注册商标。本项目（《末日：幸存者》 / Doomsday: Survivor）未经 Mojang 或 Microsoft 批准，也不与 Mojang 或 Microsoft 关联。Mojang 和 Microsoft 不对本项目的开发、发布或运营承担任何责任。<br>
 Minecraft is a registered trademark of Mojang AB. This project (Doomsday: Survivor) is not approved by, associated with, or endorsed by Mojang or Microsoft. Mojang and Microsoft are not responsible for the development, distribution, or operation of this project.
 
 <br><br><br>
