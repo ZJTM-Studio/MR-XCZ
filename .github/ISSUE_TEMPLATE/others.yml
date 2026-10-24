@@ -1,0 +1,55 @@
+name: 任务 / 其他
+description: 用于不属于 Bug 反馈或功能建议的其他问题，如文档纠错、翻译问题、求助或杂项。
+title: "[Others] 简短描述你的问题 "
+labels: ["其他"]
+type: Task
+assignees: []
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        感谢您的反馈。此模板适用于以下场景：
+        1. 发现 README、游戏内指南（Patchouli 手册）有错别字或排版问题。
+        2. 发现汉化文本缺失或翻译错误。
+        3. 对发布渠道（如 Modrinth/CurseForge）的建议或疑问。
+        4. 其他无法归类到 Bug 或功能建议的杂项。
+
+  - type: dropdown
+    id: task-type
+    attributes:
+      label: 问题类别
+      description: 请选择该问题所属的大致类别。
+      options:
+        - 文档/手册纠错 (Documentation)
+        - 翻译/汉化问题 (Translation)
+        - 发布/分发问题 (Distribution)
+        - 求助/疑问 (Question)
+        - 其他 (Other)
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: 问题描述
+      description: 请清晰地描述你遇到的问题或想要说明的事项。
+      placeholder: "例如：在第二章的求生指南中，'维修台' 被错误地写成了 '修理台'。"
+    validations:
+      required: true
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: 附加信息
+      description: 可以提供相关的截图、链接或参考资料。
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: confirmation
+    attributes:
+      label: 提交确认
+      options:
+        - label: 我已经确认该问题不属于 Bug 反馈（没崩溃）或功能建议（不是要加新模组）。
+          required: true
