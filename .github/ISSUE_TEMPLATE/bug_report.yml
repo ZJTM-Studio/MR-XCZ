@@ -33,7 +33,7 @@ body:
     validations:
       required: true
 
-   - type: dropdown
+  - type: dropdown
     id: os-family
     attributes:
       label: 操作系统类别
@@ -50,16 +50,16 @@ body:
     id: os-version
     attributes:
       label: 操作系统详细版本
-      description: "如果是 Windows，请填如 Windows 10 22H2 或 Windows 11 23H2；如果是 Linux，请填具体发行版和内核（如 Ubuntu 22.04 LTS）；如果是 macOS，请填版本号（如 macOS Sonoma 14.1）。不知道怎么填？可以在崩溃日志的开头 `OS:` 那一行找到。"
+      description: "如果是 Windows，请填如 Windows 10 22H2 或 Windows 11 23H2；如果是 Linux，请填具体发行版和内核（如 Ubuntu 22.04 LTS）；如果是 macOS，请填版本号（如 macOS Sonoma 14.1）。如果不知道具体版本，可以在崩溃日志的开头 OS: 那一行找到。"
       placeholder: "例如: Ubuntu 22.04 LTS / macOS Sonoma 14.1 / Windows 11"
     validations:
       required: true
-      
+
   - type: input
     id: pack-version
     attributes:
       label: 整合包版本
-      description: 请填写精确的版本号，例如 v0.0.1-alpha。
+      description: 请填写精确的版本号。
       placeholder: "v0.0.1-alpha"
     validations:
       required: true
