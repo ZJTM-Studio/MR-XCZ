@@ -13,6 +13,7 @@
 ![issues](https://img.shields.io/github/issues/ZJTM-studio/MR-XCZ?style=flat&logo=github&color=white)
 ![pr](https://img.shields.io/github/issues-pr/ZJTM-studio/MR-XCZ?style=flat&logo=github&color=white)
 <!--![Github Release](https://img.shields.io/github/v/release/ZJTM-studio/MR-XCZ?style=flat&logo=github&color=white)-->
+
 <br>
 [![Patchouli: MIT](https://img.shields.io/badge/Patchouli-MIT-yellow.svg)](#版权与许可声明-license--copyright)
 [![KubeJS: GPLv3](https://img.shields.io/badge/KubeJS-GPLv3-blue.svg)](#版权与许可声明-license--copyright)
