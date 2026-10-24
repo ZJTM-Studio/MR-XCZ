@@ -1,4 +1,4 @@
-name: 任务 / 其他
+name: 其他
 description: 用于不属于 Bug 反馈或功能建议的其他问题，如文档纠错、翻译问题、求助或杂项。
 title: "[Others] 简短描述你的问题 "
 labels: ["其他"]
