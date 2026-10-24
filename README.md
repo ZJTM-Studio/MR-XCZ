@@ -6,16 +6,18 @@
 <!--[![GPL-3.0](https://img.shields.io/badge/license-GPL--3.0-blue)](https://www.gnu.org/licenses/gpl-3.0.txt)-->
 ![badge](https://img.shields.io/badge/%E7%8A%B6%E6%80%81-%E5%BC%80%E5%8F%91%E4%B8%AD-green)
 ![badge](https://img.shields.io/badge/version-pre--alpha_0.0.0_-blue)
+[![badge](https://img.shields.io/badge/QQ群-1131876529-blue)](https://qm.qq.com/cgi-bin/qm/qr?k=dIibl7hJZjHRq26oyw2neRgBQ-QCqy6p&jump_from=webapi&authKey=ZXa2qrJpzx+Q19ZQ2uvfrArL/xbilzGS3aTDD4yZ5JCEo7C729aTxNZkOhnd71lv)
+<br>
+[![Patchouli: MIT](https://img.shields.io/badge/Patchouli-MIT-yellow.svg)](#版权与许可声明-license--copyright)
+[![KubeJS: GPLv3](https://img.shields.io/badge/KubeJS-GPLv3-blue.svg)](#版权与许可声明-license--copyright)
+[![Mod Code: CC0](https://img.shields.io/badge/Mod%20Code-CC0-lightgrey.svg)](#版权与许可声明-license--copyright)
+[![Assets: All Rights Reserved](https://img.shields.io/badge/Assets-All%20Rights%20Reserved-red.svg)](#版权与许可声明-license--copyright)
 <br>
 ![stars](https://img.shields.io/github/stars/ZJTM-studio/MR-XCZ?style=flat&logo=github&color=white)
 ![forks](https://img.shields.io/github/forks/ZJTM-studio/MR-XCZ?style=flat&logo=github&color=white)
 ![watchers](https://img.shields.io/github/watchers/ZJTM-studio/MR-XCZ?style=flat&logo=github&color=white)
 ![issues](https://img.shields.io/github/issues/ZJTM-studio/MR-XCZ?style=flat&logo=github&color=white)
-![pr](https://img.shields.io/github/issues-pr/ZJTM-studio/MR-XCZ?style=flat&logo=github&color=white)<br>
-[![Patchouli: MIT](https://img.shields.io/badge/Patchouli-MIT-yellow.svg)](#版权与许可声明-license--copyright)
-[![KubeJS: GPLv3](https://img.shields.io/badge/KubeJS-GPLv3-blue.svg)](#版权与许可声明-license--copyright)
-[![Mod Code: CC0](https://img.shields.io/badge/Mod%20Code-CC0-lightgrey.svg)](#版权与许可声明-license--copyright)
-[![Assets: All Rights Reserved](https://img.shields.io/badge/Assets-All%20Rights%20Reserved-red.svg)](#版权与许可声明-license--copyright)
+![pr](https://img.shields.io/github/issues-pr/ZJTM-studio/MR-XCZ?style=flat&logo=github&color=white)
 <!--![Github Release](https://img.shields.io/github/v/release/ZJTM-studio/MR-XCZ?style=flat&logo=github&color=white)-->
 Minecraft整合包《末日：幸存者》仓库
 
