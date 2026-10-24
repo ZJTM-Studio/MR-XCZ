@@ -1,8 +1,8 @@
 name: 功能建议
 description: 对《末日：幸存者》的玩法机制、模组内容或界面提出新的想法。
 title: "[Feature] 简短描述你的想法 "
-labels: ["enhancement"]
-type: Feature
+labels: ["功能"]
+type: Features
 assignees: []
 
 body:
