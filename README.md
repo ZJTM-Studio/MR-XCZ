@@ -11,17 +11,12 @@
 ![forks](https://img.shields.io/github/forks/ZJTM-studio/MR-XCZ?style=flat&logo=github&color=white)
 ![watchers](https://img.shields.io/github/watchers/ZJTM-studio/MR-XCZ?style=flat&logo=github&color=white)
 ![issues](https://img.shields.io/github/issues/ZJTM-studio/MR-XCZ?style=flat&logo=github&color=white)
-![pr](https://img.shields.io/github/issues-pr/ZJTM-studio/MR-XCZ?style=flat&logo=github&color=white)
-<!--![Github Release](https://img.shields.io/github/v/release/ZJTM-studio/MR-XCZ?style=flat&logo=github&color=white)-->
-
-<br>
+![pr](https://img.shields.io/github/issues-pr/ZJTM-studio/MR-XCZ?style=flat&logo=github&color=white)<br>
 [![Patchouli: MIT](https://img.shields.io/badge/Patchouli-MIT-yellow.svg)](#版权与许可声明-license--copyright)
 [![KubeJS: GPLv3](https://img.shields.io/badge/KubeJS-GPLv3-blue.svg)](#版权与许可声明-license--copyright)
 [![Mod Code: CC0](https://img.shields.io/badge/Mod%20Code-CC0-lightgrey.svg)](#版权与许可声明-license--copyright)
 [![Assets: All Rights Reserved](https://img.shields.io/badge/Assets-All%20Rights%20Reserved-red.svg)](#版权与许可声明-license--copyright)
-
-
-
+<!--![Github Release](https://img.shields.io/github/v/release/ZJTM-studio/MR-XCZ?style=flat&logo=github&color=white)-->
 Minecraft整合包《末日：幸存者》仓库
 
 ## 📖 关于
