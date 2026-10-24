@@ -50,9 +50,12 @@ Copyright (C) 2026 Yang458 and Chushi.
 
 <br><br><br>
 ---
-### **筑界同盟工作室 出品 Published by Zhujie Mengmeng Studio**
-### 主作者：Yang458
-### 副作者：初十
-<a href="https://www.zjtmstudio.top"><img width="192" height="108" alt="logo" src="https://github.com/user-attachments/assets/726edd5c-fa6c-4c7a-8b5a-eb19a6aa974b" /></a>
+> [!NOTE]
+> ### 制作人员
+> 主作者：Yang458<br>
+> 副作者：初十<br>
+> 筑界同盟工作室 出品
+> 
+> <a href="https://www.zjtmstudio.top"><img width="192" height="108" alt="logo" src="https://github.com/user-attachments/assets/726edd5c-fa6c-4c7a-8b5a-eb19a6aa974b" /></a>
 
 ---
