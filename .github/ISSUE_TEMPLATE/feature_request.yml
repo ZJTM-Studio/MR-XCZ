@@ -1,0 +1,55 @@
+name: 功能建议
+description: 对《末日：幸存者》的玩法机制、模组内容或界面提出新的想法。
+title: "[Feature] 简短描述你的想法 "
+labels: ["enhancement"]
+type: Feature
+assignees: []
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        感谢您对《末日：幸存者》的支持！我们非常欢迎任何有助于提升游戏体验的建议。
+        在提交之前，请先搜索现有的 Issues，确认该建议尚未被提出过。
+
+  - type: textarea
+    id: pain-point
+    attributes:
+      label: 痛点或背景描述
+      description: 描述一下你为什么要提出这个建议？是觉得目前游戏哪里不够爽，或者缺少了什么体验？
+      placeholder: "例如：目前的背包容量太小了，在废土搜刮物资时很快就满了，来回跑很折磨。"
+    validations:
+      required: true
+
+  - type: textarea
+    id: solution
+    attributes:
+      label: 期望的解决方案
+      description: 请清晰描述你希望加入什么新机制、新物品、新模组或新剧情。
+      placeholder: "例如：希望能加入一个升级版背包，或者允许玩家在基地建造一个物流存储系统。"
+    validations:
+      required: true
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: 考虑过的替代方案
+      description: 如果你觉得上述方案难以实现，你觉得有没有其他平替或折中的办法？
+    validations:
+      required: false
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: 附加信息与参考
+      description: 可以在这里提供其他游戏的参考图、模组链接，或者其他整合包的实现方式。
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: 提交确认
+      options:
+        - label: 我已经搜索了现有的 Issues，确认这是一个全新的功能建议。
+          required: true
