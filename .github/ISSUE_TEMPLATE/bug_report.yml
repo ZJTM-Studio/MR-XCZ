@@ -2,6 +2,7 @@ name: Bug 反馈
 description: 遇到了崩溃、卡顿或游戏逻辑错误？请使用此模板向我们报告。
 title: "[Bug] 简短描述你遇到的问题 "
 labels: ["bug"]
+type: Bug
 assignees: []
 
 body:
