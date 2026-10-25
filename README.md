@@ -8,10 +8,10 @@
 ![badge](https://img.shields.io/badge/version-pre--alpha_0.0.0_-blue)
 [![badge](https://img.shields.io/badge/QQ群-1131876529-blue)](https://qm.qq.com/cgi-bin/qm/qr?k=dIibl7hJZjHRq26oyw2neRgBQ-QCqy6p&jump_from=webapi&authKey=ZXa2qrJpzx+Q19ZQ2uvfrArL/xbilzGS3aTDD4yZ5JCEo7C729aTxNZkOhnd71lv)
 <br>
-[![Patchouli: MIT](https://img.shields.io/badge/Patchouli-MIT-yellow.svg)](#版权与许可声明-license--copyright)
-[![KubeJS: GPLv3](https://img.shields.io/badge/KubeJS-GPLv3-blue.svg)](#版权与许可声明-license--copyright)
-[![Mod Code: CC0](https://img.shields.io/badge/Mod%20Code-CC0-lightgrey.svg)](#版权与许可声明-license--copyright)
-[![Assets: All Rights Reserved](https://img.shields.io/badge/Assets-All%20Rights%20Reserved-red.svg)](#版权与许可声明-license--copyright)
+[![Patchouli Book: MIT](https://img.shields.io/badge/Patchouli_Book-MIT-yellow.svg)](#版权与许可声明-license--copyright)
+[![KubeJS Scripts: GPLv3](https://img.shields.io/badge/KubeJS_Scripts-GPLv3-blue.svg)](#版权与许可声明-license--copyright)
+[![Custom Mod Code: CC0](https://img.shields.io/badge/Custom_Mod_Code-CC0-lightgrey.svg)](#版权与许可声明-license--copyright)
+[![Project Assets: All Rights Reserved](https://img.shields.io/badge/Project_Assets-All_Rights_Reserved-red.svg)](#版权与许可声明-license--copyright)
 <br>
 ![stars](https://img.shields.io/github/stars/ZJTM-studio/MR-XCZ?style=flat&logo=github&color=white)
 ![forks](https://img.shields.io/github/forks/ZJTM-studio/MR-XCZ?style=flat&logo=github&color=white)
