@@ -11,7 +11,7 @@
 [![Patchouli Book: MIT](https://img.shields.io/badge/Patchouli_Book-MIT-yellow.svg)](LICENSE-books)
 [![KubeJS Scripts: GPLv3](https://img.shields.io/badge/KubeJS_Scripts-GPLv3-blue.svg)](LICENSE-code)
 [![Custom Mod Code: CC0](https://img.shields.io/badge/Custom_Mod_Code-CC0-lightgrey.svg)](LICENSE-CustomMod)
-[![Project Assets: All Rights Reserved](https://img.shields.io/badge/Project_Assets-All_Rights_Reserved-red.svg)](LICENSE-assets(Custom Mod Models and Textures))
+[![Project Assets: All Rights Reserved](https://img.shields.io/badge/Project_Assets-All_Rights_Reserved-red.svg)](LICENSE-assets(Custom%20Mod%20Models%20and%20Textures))
 <br>
 ![stars](https://img.shields.io/github/stars/ZJTM-studio/MR-XCZ?style=flat&logo=github&color=white)
 ![forks](https://img.shields.io/github/forks/ZJTM-studio/MR-XCZ?style=flat&logo=github&color=white)
