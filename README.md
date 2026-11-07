@@ -66,3 +66,4 @@ Minecraft is a registered trademark of Mojang AB. This project (Doomsday: Surviv
 > <a href="https://www.zjtmstudio.top"><img width="192" height="108" alt="logo" src="https://github.com/user-attachments/assets/726edd5c-fa6c-4c7a-8b5a-eb19a6aa974b" /></a>
 
 ---
+![MR-XCZ](https://socialify.dev/ZJTM-Studio/MR-XCZ/image?description=1&font=Inter&forks=1&issues=1&name=1&owner=1&pulls=1&stargazers=1&theme=Light)
